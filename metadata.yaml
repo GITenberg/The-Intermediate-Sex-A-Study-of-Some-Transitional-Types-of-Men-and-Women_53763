@@ -1,0 +1,29 @@
+_repo: The-Intermediate-Sex-A-Study-of-Some-Transitional-Types-of-Men-and-Women_53763
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Carpenter, Edward
+    birthdate: 1844
+    deathdate: 1929
+    gutenberg_agent_id: '657'
+    url: http://www.gutenberg.org/2009/agents/657
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Carpenter
+description: ''
+gutenberg_issued: '2016-12-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53763'
+  lccn: '27000124'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sex'
+- !lcc 'HQ'
+- !lcsh 'Homosexuality'
+- GITenberg
+tableOfContents: Prefatory note -- Introductory -- The intermediate sex -- The homogenic
+  attachment -- Affection in education -- The place of the Uranian in society -- Appendix.
+title: 'The Intermediate Sex: A Study of Some Transitional Types of Men and Women'
+url: http://www.gutenberg.org/ebooks/53763
