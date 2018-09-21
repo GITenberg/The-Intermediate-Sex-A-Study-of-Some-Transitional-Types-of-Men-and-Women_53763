@@ -1,5 +1,8 @@
 _repo: The-Intermediate-Sex-A-Study-of-Some-Transitional-Types-of-Men-and-Women_53763
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53763-h/images/cover.jpg
 creator:
   author:
     agent_name: Carpenter, Edward
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/657
     wikipedia: http://en.wikipedia.org/wiki/Edward_Carpenter
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53763#The-Intermediate-Sex-A-Study-of-Some-Transitional-Types-of-Men-and-Women
 gutenberg_issued: '2016-12-18'
 gutenberg_type: Text
 identifiers:
